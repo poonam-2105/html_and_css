@@ -1,0 +1,22 @@
+body{
+    
+    text-align: center;
+    background-color: rgb(10, 185, 10);
+}
+.red{
+    background-color: red;
+    color: white;
+}
+.black{
+    background-color: black;
+    color: white;
+}
+.center{
+    border: 1px solid white;
+    margin-left: auto;
+    margin: auto;
+    margin-right: auto;
+}
+.q1{
+    color: aliceblue;
+}

@@ -1,0 +1,55 @@
+Q1= Define the terms: Website, Webpage, Web browser, Web server,
+HTML,CSS
+
+
+ANS=Website:
+
+A website is a collection of related web pages
+that are typically identified by a common domain 
+name and published on at least one web server.
+Examples include www.google.com and www.wikipedia.org.
+Websites can contain various types of content, including text,
+images, videos, and interactive elements.
+Webpage:
+
+A webpage is a single document or
+page of content that can be viewed in a web browser.
+Each webpage is part of a website and is usually written in HTML. 
+Webpages can include text, images, videos, links to other pages, 
+and other multimedia content.
+Web Browser:
+
+A web browser is a software application used to access and view 
+websites and webpages on the Internet. Examples of web browsers
+include Google Chrome, Mozilla Firefox, Safari, and Microsoft Edge.
+Web browsers interpret HTML, CSS, JavaScript, and other web technologies
+to display content to users.
+Web Server:
+
+A web server is a computer system that
+ hosts websites and delivers web pages to users over 
+ the Internet. When a user requests a webpage by entering 
+a URL into a web browser, the web server processes this 
+request and sends the appropriate webpage to the browser.
+ Examples of web server software include Apache, Nginx, and 
+ Microsoft Internet Information Services (IIS).
+HTML (HyperText Markup Language):
+
+HTML is the standard markup language used to create
+and design webpages. It provides the structure of a
+webpage by using a system of tags and attributes to 
+define elements such as headings, paragraphs, links, 
+images, and other types of content. HTML is the foundation
+of web content and is essential for creating webpages.
+CSS (Cascading Style Sheets):
+
+CSS is a stylesheet language used to describe the 
+presentation and layout of a webpage. It works alongside 
+HTML to control the visual appearance of elements on a webpage,
+such as colors, fonts, spacing, and positioning. CSS allows
+developers to separate content (HTML) from design, making 
+it easier to maintain and update the appearance of websites.
+
+
+
+
